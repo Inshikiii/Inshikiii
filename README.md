@@ -207,8 +207,10 @@ TypeScript • HTML • CSS
 
 ---
 
-Long-term Goal:
-Become a Full Stack Engineer with expertise in Secure Software Development and Cybersecurity.
+## 🎯 Career Goal
+
+> Become a **Full Stack Software Engineer** who builds secure, scalable, and user-focused applications while continuously expanding my expertise in **Cybersecurity**.
+
 
 ---
 
