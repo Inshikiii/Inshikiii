@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nirnaya+Shrestha;Aspiring+Full+Stack+Developer;Computer+System+Engineering+Student;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi,+I'm+Nirnaya+Shrestha;Aspiring+Full+Stack+Developer;Computer+System+Engineering+Student;Building+Projects+and+Learning+Every+Day" alt="Typing Animation" />
 </p>
 
 <h3 align="center">💻 Aspiring Full Stack Developer | Computer System Engineering Student | Nepal 🇳🇵</h3>
