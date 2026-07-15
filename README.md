@@ -24,19 +24,39 @@ I enjoy building practical web applications, exploring modern technologies, and 
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-> 📚 Currently learning **Django** and planning to learn **React** next.
+> 📚 Currently learning **Django** for Full Stack Development.
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 🚀 Next Learning Goals
+
+- ⚛️ React.js
+- 🔗 REST APIs
+- 🐳 Docker
+- ☁️ AWS
+- 🔐 Cybersecurity Fundamentals
 
 ### 🧰 Tools & Platforms
 
