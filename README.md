@@ -68,17 +68,59 @@ I enjoy building practical web applications, exploring modern technologies, and 
 
 # 🚀 Featured Projects
 
-### 🩺 MediConsult
-Responsive medical consultation website built using HTML, CSS, and Bootstrap.
+## 🩺 MediConsult
+A responsive healthcare consultation website designed to provide an intuitive interface for online medical services.
 
-### 💪 FitLife Android App
-Fitness tracking Android application developed using Kotlin.
+**✨ Features**
+- Responsive and modern UI
+- Doctor & patient consultation interface
+- Appointment booking layout
+- Mobile-friendly design
 
-### 🔐 Password Strength Checker
-Interactive password analyzer with real-time password validation.
+**🛠️ Tech Stack**
+HTML • CSS • Bootstrap
 
-### 📚 Nepali Competitive Exams Prep
-Platform designed to help students prepare for Loksewa and other competitive examinations.
+---
+
+## 💪 FitLife Android App
+A fitness tracking mobile application that helps users monitor workouts and maintain a healthy lifestyle.
+
+**✨ Features**
+- Workout tracking
+- Exercise categories
+- User-friendly interface
+- Android application
+
+**🛠️ Tech Stack**
+Kotlin • Android Studio
+
+---
+
+## 🔐 Password Strength Checker
+A web application that evaluates password strength in real time and encourages users to create secure passwords.
+
+**✨ Features**
+- Real-time password validation
+- Strength indicator
+- Security recommendations
+- Responsive design
+
+**🛠️ Tech Stack**
+HTML • CSS • JavaScript
+
+---
+
+## 📚 Nepali Competitive Exams Prep
+A web platform designed to help students prepare for Loksewa and other competitive examinations through organized study resources.
+
+**✨ Features**
+- Subject-wise preparation
+- Practice materials
+- Responsive interface
+- Easy navigation
+
+**🛠️ Tech Stack**
+TypeScript • HTML • CSS
 
 ---
 
@@ -162,6 +204,11 @@ Platform designed to help students prepare for Loksewa and other competitive exa
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Inshikiii&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+---
+
+Long-term Goal:
+Become a Full Stack Engineer with expertise in Secure Software Development and Cybersecurity.
 
 ---
 
