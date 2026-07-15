@@ -95,11 +95,17 @@ Platform designed to help students prepare for Loksewa and other competitive exa
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inshikiii&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inshikiii&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Inshikiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inshikiii&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
