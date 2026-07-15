@@ -96,12 +96,12 @@ Platform designed to help students prepare for Loksewa and other competitive exa
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Inshikiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inshikiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"
     height="170"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inshikiii&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Inshikiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
     height="170"
     alt="Top Languages"
   />
